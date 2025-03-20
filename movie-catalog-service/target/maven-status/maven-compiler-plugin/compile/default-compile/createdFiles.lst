@@ -1,0 +1,3 @@
+io\javabrains\movie_catalog_service\MovieCatalogServiceApplication.class
+io\javabrains\movie_catalog_service\models\CatalogItem.class
+io\javabrains\movie_catalog_service\resources\MovieCatalogResource.class
